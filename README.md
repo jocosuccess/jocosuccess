@@ -12,17 +12,20 @@ I love to be on the edge of technology, learning new stuff and playing around wi
 ## Skills:
 1. Web Development
 - Backend: Django/Flask, Spring/Spring boot/Spring security, Laravel/Symfony/Wordpress, Express
-- Frontend: React/Angular, Html5/jQuery/Bootstrap/Typescript
+- Frontend: React/Redux/React Native/Angular, Html5/jQuery/Bootstrap/Typescript
 2. IoT/Raspberry pi3,4/Jetson Nano/ThingsBoard/Mqtt
 3. Cloud
-- AWS: EC2, Lambda, S3, DynamoDB, GraphQL, IoT Core...
-- GCP: Compute/App Engine, Storage, Firestore, PubSub
+- AWS: EC2, ECS, RDS, Beanstalk, Lambda, S3, GraphQL, IoT Core...
+- GCP: Compute/App Engine, Storage, Firestore, PubSub, GKE, GSuite
 4. Database
 - SQL: MySQL/PostgreSQL/SQL Server
-- NoSQL: MongoDB, Firestore, Redis
+- BigData/NoSQL: MongoDB, Firestore, Redis, Apache Kafka/Spark
 5. Search engine
-- Elasticsearch/ELK
-- Lucene/Solr
+- Elastic search: ELK, full-text search, schema-free JSON documents
+- Solr: full-text search, dynamic clustering, NoSQL features, rich document handling
+6. Devops
+- Microservices & Containerization: Docker, DockerCompose, Swarm
+- CI/CD: Terraform, Jenkins, Ansible, Bitbucket/Github/Gitlab
 
 <!--
 **starpolar/starpolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
