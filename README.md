@@ -68,8 +68,12 @@ Here are some ideas to get you started:
 ## 🏆: My Achievements :
 [![trophy](https://github-profile-trophy.vercel.app/?username=starpolar&theme=onedark)](https://github.com/starpolar/github-profile-trophy)
 
-## :fire: My Stats :
+## :fire: My Streaks :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=starpolar&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;
+
+## ⚡: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpolar&layout=compact&theme=vision-friendly-dark)](https://github.com/starpolar/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starpolar&theme=" />
+
 
