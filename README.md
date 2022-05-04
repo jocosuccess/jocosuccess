@@ -73,9 +73,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 ## ⚡ My Stats :
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpolar&layout=compact&theme=vision-friendly-dark)](https://github.com/starpolar/github-readme-stats)
-  </div>
 
 
 
