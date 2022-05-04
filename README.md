@@ -1,11 +1,9 @@
-<div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/> Senior Software Engineer
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# Senior Fullstack Software Engineer
 
 # About me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
+</div>
 You are trying to change the world with your business. So am I.
 I don't sell you my programming skills, I achieve your business goals.
 I love to be on the edge of technology, learning new stuff and playing around with it. But I always try to achieve the goal in the most quick and easy way. This is what really matters. Not forgetting about the project's architecture of course. It must be flexible and maintainable.
