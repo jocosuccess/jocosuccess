@@ -65,15 +65,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🏆: My Achievements :
+## 🏆 My Achievements :
 [![trophy](https://github-profile-trophy.vercel.app/?username=starpolar&theme=onedark)](https://github.com/starpolar/github-profile-trophy)
 
-## :fire: My Streaks :
+## 🔥 My Streaks :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=starpolar&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;
 
-## ⚡: My Stats :
+## ⚡ My Stats :
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpolar&layout=compact&theme=vision-friendly-dark)](https://github.com/starpolar/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starpolar&theme=" />
+  </div>
+
 
 
