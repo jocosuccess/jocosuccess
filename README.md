@@ -68,5 +68,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=starpolar&theme=onedark)](https://github.com/starpolar/github-profile-trophy)
 
 ## :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpolar)](https://github.com/starpolar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starpolar&layout=compact&theme=vision-friendly-dark)](https://github.com/starpolar/github-readme-stats)
 
